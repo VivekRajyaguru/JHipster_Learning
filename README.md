@@ -30,4 +30,34 @@
        <li>Couchbase</li>
      </ol>
    </li>
+   <li>
+     Which production database would you like to use?
+    </li>
+      <li>Which development database would you like to use?</li>
+      <li>Do you want to use the Spring cache abstraction?</li>
+      <li>Do you want to use Hibernate 2nd level cache?</li>
+      <li>Would you like to use Maven or Gradle?</li>
+      <li>Which other technologies would you like to use?
+        <ol>
+          <li>swagger-codegen</li>
+          <li>ElasticSearch</li>
+          <li>Hazelcast</li>
+          <li>Websocket</li>
+        </ol>
+      </li>
+      <li>Which Framework would you like to use for the client?
+        <ol>Angular</ol>
+        <ol>React</ol>
+      </li>
+      <li>Would you like to use the LibSass stylesheet preprocessor for your CSS?</li>
+      <li>Would you like to enable internationalization support?</li>
+      <li>Which testing frameworks would you like to use?
+        <ol>
+          <li> default JHipster provide Java unit/integration testing (using Spring’s JUnit support) and JavaScript unit testing (using Karma.js)</li>
+        </ol>
+      </li>
+      <li>
+        Would you like to install other generators from the JHipster Marketplace?
+      </li>
+      
 </ul>
