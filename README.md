@@ -81,7 +81,6 @@
       <li>Do you want to use a Data Transfer Object (DTO)?</li>
       <li>Do you want to add filtering?</li>
       <li>Do you want pagination on your entity?</li>
-      
     </ol>
   </li>
   
