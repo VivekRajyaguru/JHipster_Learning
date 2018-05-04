@@ -61,3 +61,28 @@
       </li>
       
 </ul>
+
+<hr/>
+<ul>
+  <li>Creating Entity
+    <ol>
+      <li>command -- jhipster entity <entityName> </li>
+      <li>Do you want to add a field to your entity?</li>
+      <li>What is the name of your field?</li>
+      <li>What is the type of your field?</li>
+      <li>Do you want to add validation rules to your field?</li>
+      <li>Which validation rules do you want to add?</li>
+      <li>Do you want to add a relationship to another entity?</li>
+      <li>What is the name of the other entity?</li>
+      <li>What is the name of the relationship?</li>
+      <li>What is the type of the relationship?</li>
+      <li>What is the name of this relationship in the other entity?</li>
+      <li>Do you want to use separate service class for your business logic? </li>
+      <li>Do you want to use a Data Transfer Object (DTO)?</li>
+      <li>Do you want to add filtering?</li>
+      <li>Do you want pagination on your entity?</li>
+      
+    </ol>
+  </li>
+  
+ </ul>
