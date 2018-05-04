@@ -98,6 +98,16 @@
   </li>
 </ul>
 
+<hr/>
+
+<ul>
+  <li><h3><b>Creating Service</b></h3>
+    <ol>
+      <li>jhipster spring-service <Service Name></li>
+      <li>Do you want to use an interface for your service?</li>
+    </ol>
+  </li>
+</ul>
 
 <hr/>
 <b><h3># Generating Complete Application</h3></b>
