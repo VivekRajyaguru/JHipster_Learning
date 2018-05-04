@@ -85,3 +85,9 @@
   </li>
   
  </ul>
+
+
+
+<hr/>
+# Generating Complete Application
+https://start.jhipster.tech/#/  -- For GUI
