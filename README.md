@@ -24,6 +24,10 @@
      Which type of database would you like to use?
      <ol>
        <li>No database (only available when using a microservice application)</li>
+       <li>An SQL database (H2, MySQL, MariaDB, PostgreSQL, MSSQL, Oracle), which you will access with Spring Data JPA</li>
+       <li>MongoDB</li>
+       <li>Cassandra</li>
+       <li>Couchbase</li>
      </ol>
    </li>
 </ul>
