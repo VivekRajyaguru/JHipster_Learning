@@ -64,7 +64,7 @@
 
 <hr/>
 <ul>
-  <li>Creating Entity
+  <li><h3><b>Creating Entity</b></h3>
     <ol>
       <li>command -- jhipster entity <entityName> </li>
       <li>Do you want to add a field to your entity?</li>
@@ -83,9 +83,20 @@
       <li>Do you want pagination on your entity?</li>
     </ol>
   </li>
-  
  </ul>
 
+<hr/>
+
+<ul>
+  <li><h3><b>Creating Controller</b></h3>
+    <ol>
+      <li>jhipster spring-controller <ControllerName></li>
+      <li>Do you want to add an action to your controller?</li>
+      <li>What is the name of your action?</li>
+      <li>What is the HTTP method of your action?</li>
+    </ol>
+  </li>
+</ul>
 
 
 <hr/>
