@@ -89,5 +89,6 @@
 
 
 <hr/>
-# Generating Complete Application
+<b><h3># Generating Complete Application</h3></b>
+
 https://start.jhipster.tech/#/  -- For GUI
